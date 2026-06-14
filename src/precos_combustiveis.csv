@@ -1,0 +1,3 @@
+﻿data_inicio,data_fim,combustivel,biodiesel,distribuicao,imposto_federal,icms,parcela_petrobras,preco_medio_brasil,porcentagem_biodiesel,porcentagem_distribuicao,porcentagem_icms,porcentagem_impostos_federais,porcentagem_parcela_petrobras,custo_etanol_anidro,porcentagem_custo_etanol_anidro
+2026-05-31,2026-06-06,diesel,0.74,2.08,0.3,1.17,2.83,7.12,10.4,29.2,16.4,4.2,39.7,,
+2026-05-31,2026-06-06,gasolina,,1.78,0.68,1.57,1.83,6.61,,26.9,23.8,10.3,27.7,0.75,11.3
